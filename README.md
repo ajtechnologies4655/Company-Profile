@@ -281,6 +281,5 @@ Follow AJ Technologies as we build innovative AI-powered products, contribute to
 
 ### Building Intelligent Digital Solutions
 
-Made with ❤️ by AJ Technologies
 
 </div>
