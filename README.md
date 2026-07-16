@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://via.placeholder.com/180x180.png?text=AJ+Logo" width="170"/>
+<img src="C:\Users\Aqsat\Downloads\AJ logo.jpeg" width="170"/>
 
 # AJ Technologies
 
@@ -261,7 +261,7 @@ Coming Soon
 
 💼 LinkedIn
 
-Coming Soon
+https://www.linkedin.com/company/aj-technologies-official/?viewAsMember=true
 
 📍 Location
 
